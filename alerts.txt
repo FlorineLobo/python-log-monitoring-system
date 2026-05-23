@@ -1,0 +1,21 @@
+ERROR Database connection failed
+ERROR API timeout
+ERROR Invalid authentication tokenERROR Invalid authentication token
+ERROR Payment gateway failedERROR Invalid authentication token
+ERROR Invalid authentication token
+ERROR Payment gateway failedWARNING CPU usage high
+WARNING Memory usage high
+ERROR Payment gateway failed
+CRITICAL Server crashed
+WARNING Disk usage high
+ERROR Payment API failedWARNING CPU usage high
+[2026-05-23 12:53:56] WARNING CPU usage high
+[2026-05-23 12:53:56] ERROR Payment API failed[2026-05-23 12:54:01] WARNING CPU usage high
+[2026-05-23 12:54:01] ERROR Payment API failed[2026-05-23 12:54:06] WARNING CPU usage high
+[2026-05-23 12:54:06] ERROR Payment API failed[2026-05-23 12:54:11] WARNING CPU usage high
+[2026-05-23 12:54:11] ERROR Payment API failed[2026-05-23 12:54:16] WARNING CPU usage high
+[2026-05-23 12:54:16] ERROR Payment API failed[2026-05-23 12:54:21] WARNING CPU usage high
+[2026-05-23 12:57:50] WARNING CPU usage high
+[2026-05-23 12:57:50] ERROR Payment API failed[2026-05-23 12:57:55] WARNING CPU usage high
+[2026-05-23 12:57:55] ERROR Payment API failed[2026-05-23 12:58:00] WARNING CPU usage high
+[2026-05-23 12:58:00] ERROR Payment API failed

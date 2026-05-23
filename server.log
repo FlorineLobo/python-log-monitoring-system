@@ -1,0 +1,13 @@
+INFO User login successful
+INFO File uploaded
+WARNING CPU usage high
+ERROR Database connection failed
+INFO Request completed
+ERROR API timeout
+INFO User logout
+WARNING Memory usage high
+ERROR Invalid authentication token
+ERROR Payment gateway failed
+CRITICAL Server crashed
+WARNING Disk usage high
+ERROR Payment API failed
